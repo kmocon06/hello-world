@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+ 
+Hello! My name is Krystina and I am just testing out GitHub.
